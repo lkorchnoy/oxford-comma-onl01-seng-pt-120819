@@ -19,5 +19,6 @@ while oxford_comma > 3 do
   string << "array.join(" , ")"
 
 end
-
+oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits", "lychees", "pomelos"])
+end
 
