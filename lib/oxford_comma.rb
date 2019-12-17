@@ -13,6 +13,11 @@ end
   
 oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits"])
 
+def oxford_comma(array)
+string = []
+while oxford_comma > 3 do
+  string << "array.join(" , ")"
 
+end
 
 
